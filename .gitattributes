@@ -4,8 +4,8 @@
 *.css linguist-detectable=false
 *.css linguist-documentation=false
 
-*.kotlin linguist-detectable=false
-*.kotlin linguist-documentation=false
+*.kt linguist-detectable=false
+*.kt linguist-documentation=false
 
 *.cpp linguist-detectable=false
 *.cpp linguist-documentation=false
@@ -15,3 +15,6 @@
 
 *.h linguist-detectable=false
 *.h linguist-documentation=false
+
+*.cmake linguist-detectable=false
+*.cmake linguist-documentation=false
