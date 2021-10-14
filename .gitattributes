@@ -1,5 +1,11 @@
-*.html linguist-detectable=false
-*.html linguist-documentation=false
+# Ignore counting langs in (Linux)
+linux linguist-detectable=false
+linux linguist-documentation=false
 
-*.css linguist-detectable=false
-*.css linguist-documentation=false
+# Ignore counting langs in (Android)
+android linguist-detectable=false
+android linguist-documentation=false
+
+# Ignore counting langs in (Web)
+web linguist-detectable=false
+web linguist-documentation=false
